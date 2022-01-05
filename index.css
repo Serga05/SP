@@ -1,0 +1,13 @@
+    #text {
+    	color: white;
+    }
+    body#bodyGround.save {
+    	background: linear-gradient(90deg, orange, red)
+    }
+    .buttonOne#onebtn {
+    	background: linear-gradient(90deg, red, orange);
+    	width: 240px;
+    	height: 50px;
+    	border-radius: 30px;
+    	border-color: red;
+    }
